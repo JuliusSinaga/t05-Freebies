@@ -46,6 +46,21 @@ Note: semua skema ppengujian akan memasukkan telah dirancang untuk memberikan pa
 
 ```
 
+*Input**:
+```bash
+
+```
+
+**Output**:
+```bash
+*
+**
+***
+****
+*****
+
+```
+
 ## Code Generation
 
 Pada saat mengekspor Java code, gunakan template yang telah diberikan ```java-program-template.fpgt```.

@@ -46,7 +46,7 @@ Note: semua skema ppengujian akan memasukkan telah dirancang untuk memberikan pa
 
 ```
 
-*Input**:
+**Input**:
 ```bash
 
 ```
